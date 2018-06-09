@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\camera monitor\bin\Debug\netcoreapp2.1\camera monitor.deps.json
+C:\Users\Admin\Documents\GitHub\camera monitor\bin\Debug\netcoreapp2.1\camera monitor.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\camera monitor\bin\Debug\netcoreapp2.1\camera monitor.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\camera monitor\bin\Debug\netcoreapp2.1\camera monitor.dll
+C:\Users\Admin\Documents\GitHub\camera monitor\bin\Debug\netcoreapp2.1\camera monitor.pdb
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.dll
+C:\Users\Admin\Documents\GitHub\camera monitor\obj\Debug\netcoreapp2.1\camera monitor.pdb

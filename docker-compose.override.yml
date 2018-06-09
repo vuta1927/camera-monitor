@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  ProcessMonitor:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+    ports:
+      - "45892:80"
+      - "44350:443"

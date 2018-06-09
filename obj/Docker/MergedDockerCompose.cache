@@ -1,0 +1,15 @@
+services:
+  ProcessMonitor:
+    build:
+      context: C:\Users\Admin\Documents\GitHub\camera monitor
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:80
+    image: ProcessMonitor
+    ports:
+    - published: 45892
+      target: 80
+    - published: 44350
+      target: 443
+version: '3.4'
